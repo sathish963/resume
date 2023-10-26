@@ -1,0 +1,82 @@
+header{
+    height: 100px;
+    background-color: black;
+   
+}
+#photo{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 50px;
+    z-index: 1;
+    margin-top: 30px;
+   border-width: 3px;
+   border-style: solid;
+   border-color:paleturquoise;
+}
+#contact{
+    margin-top: 100px;
+    margin-left: 40px;
+    color: red;
+    text-decoration: underline;
+}
+.contact1{
+    margin-left: 40px;
+}
+.heading{
+    margin-left: 40px;
+    color: red;
+    text-decoration: underline;
+}
+.softskills{
+    margin-left: 20px;
+}
+.project{
+    margin-left: 40px;
+}
+.education{
+    margin-left: 20px;
+}
+.container{
+    display: inline-flex;
+    flex-wrap: nowrap;
+    gap: 100px;
+}
+.career{
+    margin-left: 40px;
+}
+.subheading{
+    margin-left: 40px;
+}
+.skills{
+    margin-left: 20px;
+}
+.skills1{
+    margin-left: 20px;
+}
+.skills2{
+    margin-left: 20px;
+}
+.skills3{
+    margin-left: 20px;
+}
+.skills4{
+    margin-left:20px ;
+}
+.achievements{
+    margin-left:20px ;
+}
+.personal{
+    margin-left:20px ;
+}
+footer{
+    height: 100px;
+    background-color: black;
+}
+.left h2{
+    margin-top: 80px;
+}
+body{
+    text-transform: uppercase;
+}
